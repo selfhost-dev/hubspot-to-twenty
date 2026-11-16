@@ -10,6 +10,6 @@ This repository contains the migration files, exports, and final report for migr
 
 ## Key Findings
 * **Data Migrated:** 100 Companies, 300 Contacts, 40 Deals.
-* **Duplicate Test:** Twenty successfully blocked 99 duplicate records during a re-import test.
+* **Duplicate Test:** Duplicate Test: Re-importing Companies blocked 99 duplicates (105 to 106). Re-importing Contacts did not block duplicates (300 to 605), and they were manually deleted.
 * **HubSpot Limitations:** HubSpot Free blocks Workflows completely and prevents reliable bulk export of Notes/Tasks.
 * **Link Test:** Imported contacts do not automatically link to companies in Twenty (manual linking required).
