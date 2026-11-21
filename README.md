@@ -21,7 +21,7 @@ The full write-up and migration report is available in the [Migration Report Goo
 1. Deployed Twenty on Selfhost.dev (4 vCPU, 8 GB RAM).
 2. Created custom fields (Lead Source, Plan Interest) and 5 pipeline stages.
 3. Imported Companies, Contacts, and Deals via CSV.
-4. Rebuilt workflows and forms manually.
+4. Rebuilt workflows manually. Could not rebuild forms (Twenty limitation).
 5. Invited second user via invite link.
 
 ## Field Mapping Table
