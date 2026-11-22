@@ -3,7 +3,7 @@
 This repository contains the migration files and exports for migrating a HubSpot CRM to a self-hosted Twenty instance on Selfhost.dev.
 
 ## Final Report
-The full write-up and migration report is available in the [Migration Report Google Doc]([https://docs.google.com/document/d/1Oc7FDF4N-y3BEDVrOUEFjaflwKLbGXp8fsz-4c7FYMU/edit?usp=sharing](https://docs.google.com/document/d/1Oc7FDF4N-y3BEDVrOUEFjaflwKLbGXp8fsz-4c7FYMU/edit?usp=sharing)).
+The full write-up and migration report is available in the [Migration Report Google Doc](https://docs.google.com/document/d/1Oc7FDF4N-y3BEDVrOUEFjaflwKLbGXp8fsz-4c7FYMU/edit?usp=sharing).
 
 ## Contents
 * **companies.csv**: HubSpot export of 100 companies.
